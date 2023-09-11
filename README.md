@@ -1,1 +1,1 @@
-# Swisstronik-Challenge-1
+# Swisstronik-Challenge-1 [LearnWeb3DAO]
